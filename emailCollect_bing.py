@@ -121,5 +121,5 @@ if __name__ == '__main__':
     except:
         print("[-]输入参数有误，请检查！")
         print("[+]要爬取的邮箱后缀和爬取页数")
-        print("[+]For example: python3 emailCollect_bing.py @qq.com 3")
+        print("[+]For example: python3 emailCollect_bing.py liuneng@boc.cn 3")
     
